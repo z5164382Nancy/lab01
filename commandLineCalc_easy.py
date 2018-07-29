@@ -25,7 +25,14 @@ def calculate(s):
     1
     >>> calculate(\'print("bad guy coming to hack")\')
     '''
-    # TODO = fill in this function
+    
+    s = s + "*1"
+    
+    if eval(s) == True:
+        return None
+    else:
+        return eval(s)
+    
     pass
 
 if __name__ == '__main__':
