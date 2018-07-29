@@ -1,4 +1,5 @@
 THIS IS THE DEFINITELY FIRST LINE.
+MERGE CONFLICT RESOLVED!!
 This is the first line
 This is the second line. This has been added using github.
 This is a change on first_branch
